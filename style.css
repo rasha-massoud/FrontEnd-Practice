@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    background-color: grey;
+}
+
+.registrationForm {
+    margin-top: 15%;
+}
+
+.inputWidth {
+    width: 100%;
+}
+
+.validate{
+    margin-top: 2%;
+    margin-left: 40%;
+    width: 20%;
+}
